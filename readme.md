@@ -1,4 +1,4 @@
-# Trang Web quản lý nhân viên sử dụng frameword Laravel 5.2
+# Trang Web quản lý nhân viên sử dụng framework Laravel 5.2
 
 Đây là một ứng dụng trên nền Web trên nền frameword Laravel dùng để quản lý nhân viên và các phòng ban.
 
