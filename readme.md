@@ -9,3 +9,7 @@
 3. Import file cơ sở dữ liệu empmanager.sql
 4. Cấu hình kết nối đến database trong file .env
 
+# Sử dụng
+
+Chạy cmd: php artisan serve. Mặc định server sẽ lắng nghe cổng 8000
+Sử dụng trình duyệt truy cập http://localhost:8000/
